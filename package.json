@@ -1,8 +1,9 @@
 {
   "name": "webpack-resize-plugin",
   "version": "1.0.0",
-  "description": "plugin to automatize resizing images",
+  "description": "Webpack plugin to automatize resizing images",
   "main": "index.js",
+  "homepage": "https://github.com/lucke-01/webpack-resize-image-plugin#readme",
   "files": [
     "lib/",
     "index.js"
@@ -14,10 +15,22 @@
   "keywords": [
     "webpack",
     "resize",
-    "webpack-plugin"
+    "webpack-plugin",
+    "resize-image-plugin"
   ],
-  "author": "lucke-01",
   "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/lucke-01/webpack-resize-image-plugin.git"
+  },
+  "author": {
+    "name": "Lucke01",
+    "email": "nerzul0101@gmail.com",
+    "url": "https://github.com/lucke-01/webpack-resize-image-plugin/blob/master/AUTHORS.txt"
+  },
+  "bugs": {
+    "url": "https://github.com/lucke-01/webpack-resize-image-plugin/issues"
+  },
   "dependencies": {
     "jimp": "^0.16.1",
     "path": "^0.12.7"
