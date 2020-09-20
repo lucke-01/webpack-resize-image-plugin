@@ -1,0 +1,8 @@
+/node_modules/
+/dist/
+/coverage/
+npm-debug.*.log
+package-lock.json
+todo.txt
+/spec/mock/dist/images
+documentacion.txt
